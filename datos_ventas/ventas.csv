@@ -1,0 +1,7 @@
+id_venta,id_cliente,fecha,producto,cantidad,precio_unitario,total
+101,1,2025-01-05,Laptop,1,850.00,850.00
+102,3,2025-01-06,Mouse,2,12.50,25.00
+103,2,2025-01-07,Teclado,1,22.00,22.00
+104,5,2025-01-08,Monitor,1,150.00,150.00
+105,1,2025-01-09,Memoria USB,3,8.00,24.00
+106,4,2025-01-10,Impresora,1,120.00,120.00
